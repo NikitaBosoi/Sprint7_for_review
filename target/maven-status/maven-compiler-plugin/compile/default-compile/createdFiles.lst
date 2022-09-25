@@ -1,0 +1,7 @@
+dataModels\OrdersData.class
+dataModels\Order.class
+dataModels\CourierCreds.class
+clientApi\OrderClient.class
+clientApi\CourierClient.class
+dataModels\DataOfOrder.class
+dataModels\Courier.class
