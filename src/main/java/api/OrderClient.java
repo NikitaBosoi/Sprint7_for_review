@@ -1,6 +1,6 @@
-package clientApi;
+package api;
 
-import dataModels.Order;
+import models.Order;
 import io.qameta.allure.Step;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;

@@ -1,5 +1,5 @@
-import clientApi.CourierClient;
-import dataModels.Courier;
+import api.CourierClient;
+import models.Courier;
 import io.qameta.allure.Description;
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.response.Response;

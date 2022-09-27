@@ -1,4 +1,4 @@
-package dataModels;
+package models;
 
 public class CourierCreds {
 

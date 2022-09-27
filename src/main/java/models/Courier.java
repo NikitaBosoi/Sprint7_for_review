@@ -1,4 +1,4 @@
-package dataModels;
+package models;
 
 import org.apache.commons.lang3.RandomStringUtils;
 

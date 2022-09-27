@@ -1,7 +1,7 @@
-package clientApi;
+package api;
 
-import dataModels.Courier;
-import dataModels.CourierCreds;
+import models.Courier;
+import models.CourierCreds;
 import io.qameta.allure.Step;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;

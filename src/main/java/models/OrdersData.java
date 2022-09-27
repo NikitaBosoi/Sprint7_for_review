@@ -1,6 +1,4 @@
-package dataModels;
-
-import dataModels.DataOfOrder;
+package models;
 
 public class OrdersData {
     private DataOfOrder dataOfOrder;

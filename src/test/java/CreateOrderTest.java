@@ -1,5 +1,5 @@
-import clientApi.OrderClient;
-import dataModels.Order;
+import api.OrderClient;
+import models.Order;
 import io.qameta.allure.Description;
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.response.Response;
